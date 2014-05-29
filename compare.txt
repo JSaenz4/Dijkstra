@@ -1,0 +1,5 @@
+nodes searched, path len    Djikstra	Prim	A*dist	 A*halfass   A*zip	A*randombs	A*randomlies
+
+Austin to Muleshoe	    71, 452	, 501	11, 452	 40, 452     65, 452	65, 452		68, 805
+Laredo to Haskell	    67, 482		14, 482	 27, 482     47, 482	47, 482		77, 613
+Dumas to Corsicana	    68, 467		10, 467  25, 467     34, 467	34, 467		48, 508
